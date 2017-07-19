@@ -21,4 +21,6 @@ If you do this inside a git repo and commit as you go along, that would be great
 
 `cd joblab-test`
 
+`bundle install`
+
 `rake fetch_jobs`
