@@ -11,6 +11,7 @@ Each job also has its own page linked from the search list with further informat
 * the wage
 * the summary/description
 * more details
+
 You may choose to include additional information which you think might be useful.
 Some data will be harder to get than other and it is next to impossible to get perfect data when scraping. This is a particularly tricky site so don’t spend hours on it! What’s more important is making sure you are pleased with your code quality and have something that works at least minimally.
 
