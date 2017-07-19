@@ -19,7 +19,7 @@ If you do this inside a git repo and commit as you go along, that would be great
 
 ## Run the Rake
 
-`cd joblab-test`
+`cd joblab-code-exercise`
 
 `bundle install`
 
